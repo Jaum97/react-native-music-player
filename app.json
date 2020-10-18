@@ -1,0 +1,10 @@
+{
+	"name": "react-native-music-player",
+	"displayName": "react-native-music-player",
+	"expo": {
+		"name": "react-native-music-player",
+		"slug": "react-native-music-player",
+		"version": "1.0.0",
+		"assetBundlePatterns": ["**/*"]
+	}
+}
